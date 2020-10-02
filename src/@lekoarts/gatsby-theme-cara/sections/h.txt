@@ -1,0 +1,42 @@
+## Projects
+
+
+<ProjectCard
+  title="Enterprise Data Catalog"
+  link="https://www.informatica.com/content/dam/informatica-com/en/collateral/data-sheet/enterprise-data-catalog_data-sheet_3238en.pdf"
+  bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+>
+Informatica Enterprise Data Catalog is an AI-powered data catalog that provides a machine-learning-based discovery engine to scan and catalog data assets across the enterprise—across cloud and on-premises, and big data anywhere. It helps in building a knowledge graph of all enterprise metadata Semantic Search.</ProjectCard>
+<ProjectCard
+  title="Enterprise Data Catalog - Chrome Plugin"
+  link="https://chrome.google.com/webstore/detail/enterprise-data-catalog-p/ehmlceddjeepgfiimoofdnkblnkhojbh?hl=en"
+  bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+>
+Enterprise Data Catalog Plug-in is a browser extension that is designed keeping data consumers and analysts in mind. With this plug-in, data consumers and analysts get business context and technical details about enterprise data assets, such as dashboards, reports, tables, and databases.
+</ProjectCard>
+
+<ProjectCard
+  title="Website Manager (WSM) "
+  link="#"
+  bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+>
+Users can drag and drop self-contained widgets that serve the purpose of specific needs for a dealer website. The system was written in object-oriented JavaScript, Angular.js. I have developed the modular and generic code through Angular custom directives. TDD with the 90% code coverage using Jasmine and Karma. 
+Technology Stack: OO JavaScript, Angular.js, SASS, HTML5, Gulp, Node.JS, NPM, Java, Maven, JIRA, Confluence, Bamboo 
+</ProjectCard>
+<ProjectCard
+  title="Epiplex - Epilearn"
+  link="#"
+  bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+>
+  Epiplex enables automated capture of IT-driven business processes executed by ‘Subject Matter Experts’ using the widest range of applications, including all major ERP products such as SAP, Oracle, IFS, Infor, Epicor, Microsoft, and dozens of others, and from a wide range of other packaged and custom-developed applications. The captured processes can be rapidly and automatically converted into a range of knowledge objects, including interactive, media-rich simulations, E-Learning content (Epilearn), and process documentation, for training end-users with best practices defined by a company’s experts. 
+Involved in the development of eLearning study material. The focus was on the efficient usage of enterprise applications by its users during the training period.  
+</ProjectCard>
+<ProjectCard
+  title="Epiplex Content Management System(ECMS)"
+  link="#"
+  bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+>
+A portal-based learning content repository is used for publishing role-based learning content and tracking content usage. The ECMS portal enables users to effectively complete their learning in a virtual environment. ECMS enables the course manager to create users, group them, and assign courses, provide credentials for user access, and set parameters for scoring, assessment, and certification.
+Epiplex generated learning content can then be published with a single click and delivered directly to the target audience. In addition, ECMS tracks the usage of E-Learning content and measures the effectiveness of knowledge transfer as end-users learn, practice, take tests or refer to knowledge content during training or while on the job
+Technology Stack: Vanilla JavaScript, CSS, HTML, ASP.NET, YUI, jQuery 
+</ProjectCard>
