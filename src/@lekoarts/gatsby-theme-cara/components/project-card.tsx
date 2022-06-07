@@ -46,7 +46,7 @@ const ProjectCard = ({ link, title, children, bg,company }: ProjectCardProps) =>
       {title}
       
     </div>
-    <div> {company || "foo"}</div>
+    <div> {company}</div>
   </a>
 )
 
